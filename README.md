@@ -177,6 +177,10 @@ src/
 
 TrueThat makes Dafny accessible to developers who have never written a loop invariant in their lives.
 
+## Screenshots
+
+![Example Generation](public/site-screenshot-light.png)
+
 ---
 
 ## License
